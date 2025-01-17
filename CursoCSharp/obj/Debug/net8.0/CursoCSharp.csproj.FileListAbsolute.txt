@@ -1,0 +1,10 @@
+/Users/GabrielGallo/Códigos/Estudo/C#/CursoUdemyC#/CursoCSharp/CursoCSharp/bin/Debug/net8.0/CursoCSharp
+/Users/GabrielGallo/Códigos/Estudo/C#/CursoUdemyC#/CursoCSharp/CursoCSharp/bin/Debug/net8.0/CursoCSharp.dll
+/Users/GabrielGallo/Códigos/Estudo/C#/CursoUdemyC#/CursoCSharp/CursoCSharp/bin/Debug/net8.0/CursoCSharp.pdb
+/Users/GabrielGallo/Códigos/Estudo/C#/CursoUdemyC#/CursoCSharp/CursoCSharp/obj/Debug/net8.0/CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GabrielGallo/Códigos/Estudo/C#/CursoUdemyC#/CursoCSharp/CursoCSharp/obj/Debug/net8.0/CursoCSharp.AssemblyInfoInputs.cache
+/Users/GabrielGallo/Códigos/Estudo/C#/CursoUdemyC#/CursoCSharp/CursoCSharp/obj/Debug/net8.0/CursoCSharp.AssemblyInfo.cs
+/Users/GabrielGallo/Códigos/Estudo/C#/CursoUdemyC#/CursoCSharp/CursoCSharp/obj/Debug/net8.0/CursoCSharp.csproj.CoreCompileInputs.cache
+/Users/GabrielGallo/Códigos/Estudo/C#/CursoUdemyC#/CursoCSharp/CursoCSharp/obj/Debug/net8.0/CursoCSharp.dll
+/Users/GabrielGallo/Códigos/Estudo/C#/CursoUdemyC#/CursoCSharp/CursoCSharp/obj/Debug/net8.0/refint/CursoCSharp.dll
+/Users/GabrielGallo/Códigos/Estudo/C#/CursoUdemyC#/CursoCSharp/CursoCSharp/obj/Debug/net8.0/CursoCSharp.pdb
